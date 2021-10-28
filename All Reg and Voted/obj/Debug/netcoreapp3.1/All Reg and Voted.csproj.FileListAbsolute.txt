@@ -1,0 +1,31 @@
+E:\My Work\2021\9\All Reg and Voted\All Reg and Voted\obj\Debug\netcoreapp3.1\All Reg and Voted.csproj.AssemblyReference.cache
+E:\My Work\2021\9\All Reg and Voted\All Reg and Voted\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\My Work\2021\9\All Reg and Voted\All Reg and Voted\obj\Debug\netcoreapp3.1\App.g.cs
+E:\My Work\2021\9\All Reg and Voted\All Reg and Voted\obj\Debug\netcoreapp3.1\All Reg and Voted_MarkupCompile.cache
+E:\My Work\2021\9\All Reg and Voted\All Reg and Voted\obj\Debug\netcoreapp3.1\All Reg and Voted_MarkupCompile.lref
+E:\My Work\2021\9\All Reg and Voted\All Reg and Voted\bin\Debug\netcoreapp3.1\All Reg and Voted.exe
+E:\My Work\2021\9\All Reg and Voted\All Reg and Voted\bin\Debug\netcoreapp3.1\All Reg and Voted.deps.json
+E:\My Work\2021\9\All Reg and Voted\All Reg and Voted\bin\Debug\netcoreapp3.1\All Reg and Voted.runtimeconfig.json
+E:\My Work\2021\9\All Reg and Voted\All Reg and Voted\bin\Debug\netcoreapp3.1\All Reg and Voted.runtimeconfig.dev.json
+E:\My Work\2021\9\All Reg and Voted\All Reg and Voted\bin\Debug\netcoreapp3.1\All Reg and Voted.dll
+E:\My Work\2021\9\All Reg and Voted\All Reg and Voted\bin\Debug\netcoreapp3.1\All Reg and Voted.pdb
+E:\My Work\2021\9\All Reg and Voted\All Reg and Voted\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\My Work\2021\9\All Reg and Voted\All Reg and Voted\bin\Debug\netcoreapp3.1\NPOI.OOXML.dll
+E:\My Work\2021\9\All Reg and Voted\All Reg and Voted\bin\Debug\netcoreapp3.1\NPOI.OpenXml4Net.dll
+E:\My Work\2021\9\All Reg and Voted\All Reg and Voted\bin\Debug\netcoreapp3.1\NPOI.OpenXmlFormats.dll
+E:\My Work\2021\9\All Reg and Voted\All Reg and Voted\bin\Debug\netcoreapp3.1\NPOI.dll
+E:\My Work\2021\9\All Reg and Voted\All Reg and Voted\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\My Work\2021\9\All Reg and Voted\All Reg and Voted\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+E:\My Work\2021\9\All Reg and Voted\All Reg and Voted\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\My Work\2021\9\All Reg and Voted\All Reg and Voted\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\My Work\2021\9\All Reg and Voted\All Reg and Voted\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\My Work\2021\9\All Reg and Voted\All Reg and Voted\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\My Work\2021\9\All Reg and Voted\All Reg and Voted\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\My Work\2021\9\All Reg and Voted\All Reg and Voted\obj\Debug\netcoreapp3.1\All Reg and Voted.g.resources
+E:\My Work\2021\9\All Reg and Voted\All Reg and Voted\obj\Debug\netcoreapp3.1\All Reg and Voted.AssemblyInfoInputs.cache
+E:\My Work\2021\9\All Reg and Voted\All Reg and Voted\obj\Debug\netcoreapp3.1\All Reg and Voted.AssemblyInfo.cs
+E:\My Work\2021\9\All Reg and Voted\All Reg and Voted\obj\Debug\netcoreapp3.1\All Reg and Voted.csproj.CoreCompileInputs.cache
+E:\My Work\2021\9\All Reg and Voted\All Reg and Voted\obj\Debug\netcoreapp3.1\All Reg and Voted.csproj.CopyComplete
+E:\My Work\2021\9\All Reg and Voted\All Reg and Voted\obj\Debug\netcoreapp3.1\All Reg and Voted.dll
+E:\My Work\2021\9\All Reg and Voted\All Reg and Voted\obj\Debug\netcoreapp3.1\All Reg and Voted.pdb
+E:\My Work\2021\9\All Reg and Voted\All Reg and Voted\obj\Debug\netcoreapp3.1\All Reg and Voted.genruntimeconfig.cache
